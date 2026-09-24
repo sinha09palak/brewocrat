@@ -1,0 +1,6 @@
+{
+  "name": "Brewocrat – Brewery Skybar & Kitchen",
+  "description": "Crafted brews, bold flavours and unforgettable nights in the heart of Gurugram. 2nd Floor, Element One Mall, Sector 47.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
